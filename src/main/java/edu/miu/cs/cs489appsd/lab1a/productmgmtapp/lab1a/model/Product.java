@@ -1,4 +1,4 @@
-package edu.miu.cs.cs489appsd.lab1a.productmgmtapp.model;
+package edu.miu.cs.cs489appsd.lab1a.productmgmtapp.lab1a.model;
 
 
 public class Product {

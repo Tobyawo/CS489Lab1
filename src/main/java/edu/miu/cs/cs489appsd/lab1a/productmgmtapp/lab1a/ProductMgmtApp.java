@@ -1,7 +1,7 @@
-package edu.miu.cs.cs489appsd.lab1a.productmgmtapp;
+package edu.miu.cs.cs489appsd.lab1a.productmgmtapp.lab1a;
 
 
-import edu.miu.cs.cs489appsd.lab1a.productmgmtapp.model.Product;
+import edu.miu.cs.cs489appsd.lab1a.productmgmtapp.lab1a.model.Product;
 import java.util.Arrays;
 import java.util.Comparator;
 
